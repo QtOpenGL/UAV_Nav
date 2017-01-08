@@ -14,5 +14,3 @@ TODO:
 4. QCustomPlot Real-Time Option
 5. Odroid-U3
 6. World Coordinates (GPS Integration)
-
-rem
